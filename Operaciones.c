@@ -1,3 +1,5 @@
+//Ejemplo de Operaciones matematicas
+
 #include<stdio.h>
 
 int Suma,ValorA,ValorB;
