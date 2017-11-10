@@ -1,3 +1,5 @@
+//Ejemplo de ciclos for anidados
+
 #include<stdio.h>
 
 int main(void){
