@@ -1,3 +1,5 @@
+// Muestra el funcionamiento de los condicionales if-else
+
 #include<stdio.h>
 #include<math.h>
 
