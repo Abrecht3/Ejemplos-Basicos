@@ -1,3 +1,4 @@
+// Programa para convertir de grados fahrenheit a celsius
 #include<stdio.h>
 
 int main (void){
