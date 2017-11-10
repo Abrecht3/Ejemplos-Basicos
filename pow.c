@@ -1,9 +1,13 @@
+/*
+    Genera el cuadrado de un numero con operaciones basicas y funciones
+    simula el funcionamiento de la funcion pow(,) de math.h
+*/
 #include<stdio.h>
 
 int cx;
 void cuadrado(int cx);
 
-main()
+int main(void)
 {
     int cx=23;
     printf("el valor de CX es: %d ",cx);
