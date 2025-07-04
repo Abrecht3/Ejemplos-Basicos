@@ -1,12 +1,14 @@
-# Ejemplos Basicos de Programacion en lenguaje C
+# Ejemplos básicos de programación en lenguaje C
 
-Recopilacion de programas desarrollados como ejercicios
-y tareas para la asignatura programacion estructurada
-de la Division de Ciencias Basicas UAM Azcapotzalco
+<p>Recopilación de programas desarrollados como ejercicios
+y tareas para las asignaturas de programación estructurada
+y métodos numéricos, parte del tronco común de la División 
+de Ciencias Básicas e Ingenierías de la Universidad Autónoma Metropolitana unidad Azcapotzalco<p>
 
-Representan ejemplos de:
+<p>Representan ejemplos de:<p>
 
-Ciclos Anidados,
-Calculo del area de un circulo,
+<p>Ciclos Anidados,
+Cálculo del área de un círculo,
 Condicionales if-else,
-Generar la figura de un rombo enmarcada por un contorno formado por un caracter definido por el usario,
+Generar la figura de un rombo enmarcada por un contorno formado por un carácter definido por el usuario,
+método de Pegaso, Newton, secante para resolver ecuaciones lineales,<p>
